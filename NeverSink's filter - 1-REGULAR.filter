@@ -1,4 +1,11 @@
 #===============================================================================================================
+
+# Test git local and GitHub connection - ignore this file, it's just a copy of the main filter file that I use to test the connection and the auto-update feature of FilterBlade. I will delete it after confirming that everything works fine.
+
+#===============================================================================================================
+
+
+#===============================================================================================================
 # NeverSink's Indepth Loot Filter - for Path of Exile
 #===============================================================================================================
 # VERSION:  8.19.0b
